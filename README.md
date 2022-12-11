@@ -16,13 +16,13 @@ The final dataset after combining reviews from the various sources consists of 8
 Sentiment Analysis has to be done to predict whether a restaurant review given by a customer is Positive (or) Negative.
 
 ## Approach
-Step 1 : Web scraping was done using the Python library BeautifulSoup. 
-Step 2 : Basic EDA(i.e Exploratory Data Analysis) was done to check if the dataset is balanced AND whether it has any missing values or duplicate entries.
-Step 3 : The reviews obtained from Web scraping had HTML tags present within them. By using BeautifulSoup & Regex expressions, both HTML tags & Punctuation marks were removed from the reviews.
-Step 4 : Reviews which were not in English were removed with the help of the library LangDetect.
-Step 5 : Preprocessing : Removal of StopWords, Lemmatization, and Count Vectorization were performed in the mentioned order.
-Step 6 : Dataset was divided into 2 parts : Training(i.e 80%) & Testing(i.e 20%) with Sratify enabled to make sure that the datasets were divided properly.
-Step 7 : Several machine learning algorithms were implemented such as MultiNomialNB, Decision Tree, Random Forest, Gradient Boosting, and AdaBoosting to model and fit the data. GridSearchCV was used to perform hyperparameter tuning to get the best parameters for each algorithm used. To quantify the models, I used the metrics of accuracy_score (i.e dataset was balanced).
+* Step 1 : Web scraping was done using the Python library BeautifulSoup. 
+* Step 2 : Basic EDA(i.e Exploratory Data Analysis) was done to check if the dataset is balanced AND whether it has any missing values or duplicate entries.
+* Step 3 : The reviews obtained from Web scraping had HTML tags present within them. By using BeautifulSoup & Regex expressions, both HTML tags & Punctuation marks were removed from the reviews.
+* Step 4 : Reviews which were not in English were removed with the help of the library LangDetect.
+* Step 5 : Preprocessing : Removal of StopWords, Lemmatization, and Count Vectorization were performed in the mentioned order.
+* Step 6 : Dataset was divided into 2 parts : Training(i.e 80%) & Testing(i.e 20%) with Sratify enabled to make sure that the datasets were divided properly.
+* Step 7 : Several machine learning algorithms were implemented such as MultiNomialNB, Decision Tree, Random Forest, Gradient Boosting, and AdaBoosting to model and fit the data. GridSearchCV was used to perform hyperparameter tuning to get the best parameters for each algorithm used. To quantify the models, I used the metrics of accuracy_score (i.e dataset was balanced).
 
 
 ## Result
@@ -30,17 +30,17 @@ In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Grad
 
 ## Output Screenshots 
 
-1. Positive Review
-INPUT: 
-<img src="Ex1 - Question.png">
-OUTPUT: 
-<img src="Ex1 - Prediction.png">
+* 1. Positive Review
+     * INPUT: 
+     <img src="Ex1 - Question.png">
+     * OUTPUT: 
+     <img src="Ex1 - Prediction.png">
 
 2. Negative Review
-INPUT: 
-<img src="Ex2 - Question.png">
-OUTPUT: 
-<img src="Ex2 - Prediction.png">
+     * INPUT: 
+     <img src="Ex2 - Question.png">
+     * OUTPUT: 
+     <img src="Ex2 - Prediction.png">
 
 ## Importance
 The field of machine learning has seen a tremendous growth over the past few years, and is only going to grow further in the future. 
