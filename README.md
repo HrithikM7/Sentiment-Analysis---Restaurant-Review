@@ -30,15 +30,13 @@ In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Grad
 
 ## Output Screenshots 
 
-* 1. Positive Review
-     <img src="Ex1 - Question.png">
-     <img src="Ex1 - Prediction.png">
+1. Positive Review
+     <img src="Ex2 - Question.png">
+     <img src="Ex2 - Prediction.png">
 
 2. Negative Review
-     * INPUT: 
-     <img src="Ex2 - Question.png">
-     * OUTPUT: 
-     <img src="Ex2 - Prediction.png">
+     <img src="Ex1 - Question.png">
+     <img src="Ex1 - Prediction.png">
 
 ## Importance
 The field of machine learning has seen a tremendous growth over the past few years, and is only going to grow further in the future. 
