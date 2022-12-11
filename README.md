@@ -1,6 +1,6 @@
 # Sentiment-Analysis---Restaurant-Review
 
-<img src="Picture.jpg" width = "150" height = "150" >
+<img src="Picture.jpg" width = "200" height = "200" >
 
 ## Quick Intro
 Enclosed is a Jupyter Notebook which uses Natural Language Processing to perform Sentiment Analysis on a given restaurant review.
@@ -32,15 +32,15 @@ In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Grad
 
 1. Positive Review
 INPUT: 
-<img src="Ex1 - Question.png" width = "150" height = "150" >
+<img src="Ex1 - Question.png">
 OUTPUT: 
-<img src="Ex1 - Prediction.png" width = "150" height = "150" >
+<img src="Ex1 - Prediction.png">
 
 2. Negative Review
 INPUT: 
-<img src="Ex2 - Question.png" width = "150" height = "150" >
+<img src="Ex2 - Question.png">
 OUTPUT: 
-<img src="Ex2 - Prediction.png" width = "150" height = "150" >
+<img src="Ex2 - Prediction.png">
 
 ## Importance
 The field of machine learning has seen a tremendous growth over the past few years, and is only going to grow further in the future. 
