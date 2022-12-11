@@ -30,11 +30,11 @@ In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Grad
 
 ## Output Screenshots 
 
-1. Positive Review
+* 1. Positive Review
      <img src="Ex2 - Question.png">
      <img src="Ex2 - Prediction.png">
 
-2. Negative Review
+* 2. Negative Review
      <img src="Ex1 - Question.png">
      <img src="Ex1 - Prediction.png">
 
