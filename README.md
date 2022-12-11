@@ -24,7 +24,8 @@ Sentiment Analysis has to be done to predict whether a restaurant review given b
 
 
 ## Result
-In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Gradient Boosting, and AdaBoosting for a Sentiment Analysis task based on Natural Language Processing. The best result that was obtained was by: MultiNomialNB w/ Accuracy Score : 0.86766
+In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Gradient Boosting, and AdaBoosting for a Sentiment Analysis task based on Natural Language Processing. 
+* The best result that was obtained was by: MultiNomialNB w/ Accuracy Score : 0.86766
 
 ## Output Screenshots 
 
