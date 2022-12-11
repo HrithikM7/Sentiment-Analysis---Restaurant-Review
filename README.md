@@ -28,11 +28,11 @@ In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Grad
 
 ## Output Screenshots 
 
-     <img src="Ex2 - Question.png">
-     <img src="Ex2 - Prediction.png">
+<img src="Ex2 - Question.png">
+<img src="Ex2 - Prediction.png">
      
-     <img src="Ex1 - Question.png">
-     <img src="Ex1 - Prediction.png">
+<img src="Ex1 - Question.png">
+<img src="Ex1 - Prediction.png">
 
 ## Importance
 The field of machine learning has seen a tremendous growth over the past few years, and is only going to grow further in the future. 
