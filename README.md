@@ -8,9 +8,7 @@ Enclosed is a Jupyter Notebook which uses Natural Language Processing to perform
 ## Data Collection
 The data which was used for training & testing purposes were obtained through : 
 * Web Scraping : Around 10 websites were web scraped to obtain approximately 30,000 reviews given for various restaraunts throughout the world. 
-* Dataset :
-            * Downloaded a dataset from Kaggle.
-The final dataset after combining reviews from the various sources consists of 81,000 reviews, and is present in the zip file provided.
+* Dataset : Downloaded a dataset from Kaggle. The final dataset after combining reviews from the various sources consists of 81,000 reviews, and is present in the zip file provided.
 
 ## Problem Statement
 Sentiment Analysis has to be done to predict whether a restaurant review given by a customer is Positive (or) Negative.
@@ -30,11 +28,9 @@ In this project, I implemented MultiNomialNB, Decision Tree, Random Forest, Grad
 
 ## Output Screenshots 
 
-* 1. Positive Review
      <img src="Ex2 - Question.png">
      <img src="Ex2 - Prediction.png">
-
-* 2. Negative Review
+     
      <img src="Ex1 - Question.png">
      <img src="Ex1 - Prediction.png">
 
